@@ -150,7 +150,7 @@ This model enables:
 
 - Hyperparameter tuning for boosted models
 - Deployment using Flask / FastAPI
-- Real-time churn prediction pipeline
+- Real-time, low latency churn prediction pipeline
 - Integration with CRM systems
 
 ---
